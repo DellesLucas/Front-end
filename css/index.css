@@ -140,3 +140,13 @@ button[disabled=disabled], button:disabled {
 	opacity: 0;
 	transition-timing-function: 0.5s;
 }
+
+#filtrar-pacientes{
+	width: 200px;
+	height: 30px;
+	margin-bottom: 10px;
+}
+
+.invisivel{
+	display: none;
+}
